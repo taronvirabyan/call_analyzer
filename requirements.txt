@@ -1,0 +1,21 @@
+# Core dependencies for Master Call Analyzer
+# AI-powered call analysis system
+
+# Essential dependencies
+requests>=2.31.0
+google-genai>=0.8.0
+python-dateutil>=2.8.2
+typing-extensions>=4.8.0
+
+# Optional enhancements
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.4.0
+# black>=23.9.0
+# flake8>=6.1.0
+
+# Documentation (uncomment if needed)
+# mkdocs>=1.5.0
+# mkdocs-material>=9.4.0 
